@@ -1,2 +1,2 @@
 # minesweeper
-Command Line Minesweeper (GUI IN PROGRESS)
+Command Line Minesweeper (GUI IN PROGRESS using Gtk)
